@@ -1,17 +1,4 @@
 entries:
-  - title: cybersecurity enthusiast & student
-
-  - title: find me
-    entries:
-      - title: email
-        url: mailto:ganeshsrivathsan@gmail.com
-      - title: github
-        url: https://github.com/srivathsannayak
-      - title: linkedin
-        url: https://www.linkedin.com/in/srivathsannayak
-      - title: tryhackme
-        url: https://tryhackme.com/p/svheartvsnares
-  
   - title: posts
     post_list:
           limit: 5
@@ -58,10 +45,3 @@ entries:
           - title: with subsubitems
           - title: example page
             url: about
-
-  - title: references
-    entries:
-      - title: theme
-        url: https://github.com/riggraz/no-style-please
-      - title: inspiration
-        url: https://riggraz.dev/
