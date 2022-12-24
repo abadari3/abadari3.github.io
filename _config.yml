@@ -5,8 +5,8 @@ title: Srivathsan Nayak
 email: ganeshsrivathsan@gmail.com
 description: Portfolio of Srivathsan Nayak
 baseurl: ""
-url: "https://srivathsannayak.github.io/"
-github_username:  srivathsannayak
+url: "https://abadari.github.io/"
+github_username:  abadari3
 permalink: /:slug.html
 future: true
 
@@ -18,8 +18,8 @@ plugins:
 
 theme_config:
   back_home_text: ".."
-  date_format: "%d-%m-%Y"
-  appearance: "dark"
+  date_format: "%m-%d-%Y"
+  appearance: "auto"
   show_description: false
 
 # Exclude from processing.
