@@ -19,7 +19,6 @@ entries:
           show_more_text: See archive...
           show_more_url: archive.html
 
-
   - title: movies
     post_list:
       category: movie
@@ -51,8 +50,6 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: book-archive.html
-
-  
 
   - title: another list
     entries:
