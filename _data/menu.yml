@@ -19,38 +19,6 @@ entries:
           show_more_text: See archive...
           show_more_url: archive.html
 
-  - title: movies
-    post_list:
-      category: movie
-      limit: 3
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: movie-archive.html
-
-    - title: math
-    post_list:
-      category: math
-      limit: 3
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: math-archive.html
-
-    - title: music
-    post_list:
-      category: music
-      limit: 3
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: music-archive.html
-
-    - title: books
-    post_list:
-      category: book
-      limit: 3
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: book-archive.html
-
   - title: another list
     entries:
       - title: with subitems
