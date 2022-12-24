@@ -2,7 +2,7 @@ entries:
   - title: notes
     entries:
       - title: example page
-        url: about
+        url: mathdeep
 
   - title: posts
     post_list: true
