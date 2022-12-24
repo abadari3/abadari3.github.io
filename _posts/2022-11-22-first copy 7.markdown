@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "First"
+category: book
 ---
 
 Hello, I'm Srivathsan Nayak, and I have no idea what I'm doing.

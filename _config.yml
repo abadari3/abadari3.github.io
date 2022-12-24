@@ -2,13 +2,16 @@
 # 'bundle exec jekyll serve'
 
 title: Ananda Badari
+author: Ananda Badari
 email: badari.ananda@gmail.com
 description: Portfolio of Ananda Badari
+url: "https://blog.anandabadari.com/"
 baseurl: ""
-url: "https://abadari.github.io/"
 github_username:  abadari3
 permalink: /:slug.html
 future: true
+
+# favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 
 # Build settings
 remote_theme: riggraz/no-style-please
@@ -18,9 +21,12 @@ plugins:
 
 theme_config:
   back_home_text: ".."
-  date_format: "%m-%d-%Y"
+  date_format: "%Y-%m-%d"
   appearance: "auto"
   show_description: false
+
+sass:
+  style: :compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

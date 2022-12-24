@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "First"
+category: movie
 ---
 
 Hello, I'm Srivathsan Nayak, and I have no idea what I'm doing.
