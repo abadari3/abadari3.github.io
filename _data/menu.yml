@@ -1,5 +1,10 @@
 entries:
-  - title: Notes because I don't like the word blog.
+  - title: notes
+    entries:
+      - title: example page
+        url: about
+
+  - title: posts
     post_list: true
 
   - title: other
@@ -10,3 +15,5 @@ entries:
         url: https://letterboxd.com/abadari/
       - title: goodreads for books
         url: https://www.goodreads.com/user/show/157983630-ananda
+
+        
