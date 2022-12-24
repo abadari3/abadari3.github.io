@@ -1,3 +1,12 @@
 entries:
   - title: Notes because I don't like the word blog.
     post_list: true
+
+  - title: other
+    entries:
+      - title: lastfm for music
+        url: https://www.last.fm/user/abadari3
+      - title: letterboxd for movies/tv
+        url: https://letterboxd.com/abadari/
+      - title: goodreads for books
+        url: https://www.goodreads.com/user/show/157983630-ananda
