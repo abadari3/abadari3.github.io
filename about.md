@@ -1,4 +1,8 @@
-# About
+---
+layout: page
+title: About
+---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+This is an example page!
 
+It's very similar to a `post` layout, with the only difference that the publish date is not shown!

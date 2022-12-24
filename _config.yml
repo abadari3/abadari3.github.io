@@ -1,43 +1,27 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
+title: no style, please! # name of the site
+author: Riccardo Graziosi # name of site's author
+email: riccardo.graziosi97@gmail.com # email of site's author
+url: https://riggraz.dev # root address of the site
+baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
-title: Ananda's Notes
-description: Notes because I don't like the word 'blog'
-github_username: abadari3
+permalink: /:slug.html
 
-# Email and twitter are optional:
-email:
-twitter_username:
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
-# Set this to true to get LaTeX math equation support
-use_math: true
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
-# Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
 
-# Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+sass:
+  style: :compressed
+
 plugins:
   - jekyll-feed
-  - jekyll-gist
-  - jekyll-octicons
-  - jekyll-github-metadata
-
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true
-
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  math_engine: katex
-  input: GFM
-  auto_ids: true
-  hard_wrap: false
-  syntax_highlighter: rouge
+  - jekyll-seo-tag
