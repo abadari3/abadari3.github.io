@@ -13,7 +13,7 @@ entries:
         url: https://tryhackme.com/p/svheartvsnares
   
   - title: posts
-    post_list: true
+    post_list: false
 
   - title: references
     entries:
