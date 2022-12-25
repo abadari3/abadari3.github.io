@@ -22,7 +22,7 @@ plugins:
 
 theme_config:
   back_home_text: ".."
-  date_format: ""
+  date_format: "%Y-%m-%d"
   appearance: "auto"
   show_description: false
 
