@@ -1,9 +1,4 @@
 entries:
-  - title: notes
-    entries:
-      - title: Math Deep for ML
-        url: mathdeep
-
   - title: posts
     post_list: true
 
