@@ -9,6 +9,21 @@
     blockquote {
     font-style: normal !important;
     }
+    .centerMobileOnly{
+      float: right;
+      margin-left: 15px;
+      margin-top: 7px;
+      width: 60%;
+    }
+    @media (max-device-width: 800px) {
+      .centerMobileOnly {
+        float: center;
+        margin-left: 15px;
+        margin-top: 7px;
+        width: 80%;
+        overflow: hidden;
+      }
+    }
   </style>
   <title>
     {%- if page.title -%}
