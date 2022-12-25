@@ -3,8 +3,7 @@ layout: post
 title: Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning
 ---
 
-Source: [Algebra, Topology, Differential Calculus, and Optimization Theory
-For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
+Source: [math-deep.pdf](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 
 
 ## Table of contents
@@ -12,7 +11,11 @@ For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-
 - [Vector Spaces, Bases, Linear Maps](#3)
 - [Matrices and Linear Maps](#4)
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.
+A group is a set $G$ equipped with a binary operation $\cdot : G \times G \to G $ such that the four group axioms are satisified. 
+1. $a \cdot b \in G$ for all $a, b \in G$. (Closure)
+2. $a \cdot \left( b \cdot c \right) =   \left(a \cdot b  \right)\cdot c$. (Associativity)
+3. There exists an identity element $e$ such that $a \cdot e = e \cdot a = a$. (Identity)
+4. For every $a \in G$, there exists $a^{-1} \in G$ such that $a \cdot a^{-1} = a^{-1} \cdot a = e$. (Inverse)
 
 ## [Groups, Rings, and Fields](#2)
 
