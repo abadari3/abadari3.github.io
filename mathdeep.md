@@ -33,7 +33,7 @@ Donec ex lectus, tempus non lacinia quis, pretium non ipsum. Praesent est nunc, 
 <!-- 
 
     [NbConvertApp] Converting notebook post.ipynb to markdown
-    [NbConvertApp] Writing 458 bytes to math-deep.md
+    [NbConvertApp] Writing 3750 bytes to math-deep.md
 
 
     [NbConvertApp] Converting notebook post.ipynb to markdown
