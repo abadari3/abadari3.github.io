@@ -1,8 +1,4 @@
 entries:
-  - title: all
-    post_list: true
-
-
   - title: movies
     post_list:
       category: movie
