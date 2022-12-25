@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apocalypse Now (1979)
+category: movie
 ---
 <font size=7>★★★★★</font>
 

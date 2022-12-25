@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Django Unchained (2012)
+category: movie
 ---
 <font size=7>★★★★★</font>
 

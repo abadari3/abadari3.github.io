@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Silence of the Lambs (1991)
+category: movie
 ---
 <font size=7>★★★★★</font>
 

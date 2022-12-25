@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coming To America (1988)
+category: movie
 ---
 <font size=7>★★★☆☆</font>
 

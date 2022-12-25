@@ -1,6 +1,26 @@
 entries:
-  - title: movies
+  - title: all
     post_list: true
+
+
+  - title: movies
+    post_list:
+      category: movie
+      limit: 5
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: movie-archive.html
+
+
+
+  - title: recipes
+    post_list:
+      category: recipe
+      limit: 5
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: recipe-archive.html
+
 
   # - title: other
   #   entries:

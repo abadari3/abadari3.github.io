@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Bridge on the River Kwai (1957)
+category: movie
 ---
 <font size=7>★★★★☆</font>
 
