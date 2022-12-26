@@ -2,8 +2,7 @@ entries:
   - title: movie reviews
     post_list:
       category: movie
-      limit: 5
-      show_more: true
+      show_more: false
       show_more_text: See more posts...
       show_more_url: movie-archive.html
 
