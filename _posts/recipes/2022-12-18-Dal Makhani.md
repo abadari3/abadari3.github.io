@@ -45,4 +45,8 @@ A classic with both chapati and rice.
 ---
 {: data-content=" footnotes "}
 
-[^1]: [ingredients](/ingredients)
+[^1]: [lavang](/ingredients#lavang)
+[^2]: [bay leaves](/ingredients#bay-leaves)
+[^3]: [jeera](/ingredients#jeera)
+[^4]: [elaichi](/ingredients#elaichi)
+[^5]: [casuri methi](/ingredients#carusimethi)
