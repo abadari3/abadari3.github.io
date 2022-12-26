@@ -17,7 +17,6 @@ The film's cinematography is also noteworthy, with sweeping shots of the jungle 
 
 The Bridge on the River Kwai is a film that deals with some heavy themes, including the horrors of war and the moral dilemmas that soldiers often face. However, it also manages to be a thrilling and entertaining film, with several suspenseful action scenes and a gripping plot. One particularly memorable scene is the explosion of the bridge, which was a groundbreaking special effect at the time and is still impressive to this day. The final scene, in which Colonel Nicholson realizes the true cost of his actions and sacrifices himself to destroy the bridge, is also a powerful and poignant moment.
 
-
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/sevensamurai4.png" class="leftfloat"> 
 
 In terms of its place in film history, The Bridge on the River Kwai is a significant achievement. It was a critical and commercial success upon its release and won seven Academy Awards, including Best Picture and Best actor for Alec Guinness. It is also notable for being the first British film to be shot on location in Thailand, which adds to its authenticity. The film's themes of duty and morality are still relevant today, making it a timeless classic that continues to resonate with audiences.
@@ -30,7 +29,7 @@ Overall, The Bridge on the River Kwai is a film that is sure to stay with the vi
 
 One of the things that makes The Bridge on the River Kwai so effective is its ability to explore its themes in a subtle and nuanced way. The film doesn't offer easy answers or simplistic solutions, and it allows the viewer to come to their own conclusions about the moral dilemmas faced by the characters. This complexity and nuance make the film feel more realistic and relatable, and it adds to its overall impact.
 
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/sevensamurai5.png" class="rightfloat" > 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/sevensamurai5.png" class="leftfloat" > 
 
 Another thing that sets The Bridge on the River Kwai apart is its sense of epic scope. The film's grandiose visuals and sweeping score add to its sense of grandeur, and the film's action scenes are intense and exciting. However, the film is also able to balance this epic scope with more intimate character moments, making it feel like a well-rounded and complete film.
 

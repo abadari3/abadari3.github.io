@@ -9,13 +9,13 @@ entries:
 
 
 
-  - title: recipes
-    post_list:
-      category: recipe
-      limit: 5
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: recipe-archive.html
+  # - title: recipes
+  #   post_list:
+  #     category: recipe
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: recipe-archive.html
 
 
   # - title: other

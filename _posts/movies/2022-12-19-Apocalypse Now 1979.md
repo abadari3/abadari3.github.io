@@ -17,13 +17,11 @@ The acting in "Apocalypse Now" is top-notch, with standout performances by Brand
 
 The film's score, composed by Carmine Coppola and Francis Ford Coppola, adds to the film's sense of dread and unease. The use of "Ride of the Valkyries" as the soundtrack for the film's infamous helicopter attack scene only adds to the chaos and destruction on screen. The film's use of sound design is also noteworthy, with the constant hum of helicopters and gunfire adding to the overall feeling of being in the midst of a warzone.
 
-
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/sevensamurai4.png" class="leftfloat"> 
 
 One of the main themes of "Apocalypse Now" is the dehumanizing effects of war. The film portrays the soldiers as being reduced to animals, with their actions becoming more and more savage as they become further removed from civilization. The film also explores the corrupting influence of power, as seen in the character of Kurtz, who has gone completely mad with his own sense of authority. These themes are explored through the character arcs of Willard and Kurtz, as Willard becomes more and more disillusioned with the war and Kurtz becomes more and more corrupted by his own power.
 
 In terms of historical context, "Apocalypse Now" was released during the Vietnam War and serves as a commentary on the madness and futility of the conflict. The film's portrayal of the war as a destructive and self-perpetuating cycle reflects the disillusionment felt by many Americans at the time. The film's themes are just as relevant today, as the nature of war and the corrupting influence of power are eternal issues that continue to plague society.
-
 
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/sevensamurai6.png" class="rightfloat" > 
 

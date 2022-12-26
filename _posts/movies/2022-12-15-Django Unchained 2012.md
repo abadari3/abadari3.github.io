@@ -26,7 +26,6 @@ In terms of historical context, "Django Unchained" is a significant film in the 
 
 In terms of its place in Tarantino's filmography, "Django Unchained" is a continuation of the director's exploration of violent and controversial themes. Tarantino has always been known for his distinctive style and "Django Unchained" is no exception, with its over-the-top action sequences and clever dialogue. The film's use of graphic violence and colorful language is a trademark of the director's style, and "Django Unchained" does not disappoint in this regard. The film also pays homage to classic westerns and spaghetti westerns, with references to films such as "The Good, The Bad, and The Ugly" and "Django," from which the film derives its name.
 
-
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/sevensamurai6.png" class="rightfloat" > 
 
 As a personal reflection, "Django Unchained" is a film that left a lasting impact on me. The themes of slavery and revenge are powerful and thought-provoking, and the performances of the cast are excellent. The film's blend of western and spaghetti western elements also adds to its uniqueness and appeal. While the film may be divisive in terms of its depiction of slavery and violence, it's a testament to Tarantino's skill as a filmmaker and his willingness to tackle difficult and controversial topics.
