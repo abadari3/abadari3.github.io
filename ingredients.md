@@ -5,7 +5,7 @@ category: recipe
 ---
 
 - [bay leaves](#bay-leaves) 
-- [casuri methi](#casurimethi) 
+- [casuri methi](#casuri) 
 - [chana dal](#chanadal) 
 - [chinch (soaked)](#soakedchinch)
 - [elaichi](#elaichi) 
@@ -38,7 +38,7 @@ category: recipe
 ## [bay leaves](#bay-leaves) 
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/bayleaves.png">
 
-## [casuri methi](#casurimethi) 
+## [casuri methi](#casuri) 
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/casurimethi.png"> 
 
 ## [chana dal](#chanadal) 
@@ -78,7 +78,7 @@ category: recipe
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/mohra.png"> 
 
 ## [palak](#palak) 
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/palak.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/palak.jpeg"> 
 
 ## [red chilies](#redchilies) 
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/redchilies.png"> 

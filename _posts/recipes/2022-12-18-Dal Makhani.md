@@ -52,4 +52,4 @@ A classic with both chapati and rice.
 [^5]: [garam masala](/ingredients#garammasala)
 [^6]: [chili powder](/ingredients#redchilipowder)
 [^7]: [haldi](/ingredients#haldi)
-[^8]: [casuri methi](/ingredients#casurimethi)
+[^8]: [casuri methi](/ingredients#casuri)
