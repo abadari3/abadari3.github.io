@@ -1,21 +1,18 @@
 entries:
-  - title: movie reviews
+  - title: movies
     post_list:
       category: movie
-      show_more: false
+      limit: 5
+      show_more: true
       show_more_text: See more posts...
       show_more_url: movie-archive.html
 
-
-
-  # - title: recipes
-  #   post_list:
-  #     category: recipe
-  #     limit: 5
-  #     show_more: true
-  #     show_more_text: See more posts...
-  #     show_more_url: recipe-archive.html
-
+  - title: recipes
+    post_list:
+      category: recipe
+      show_more: false
+      show_more_text: See more posts...
+      show_more_url: recipe-archive.html
 
   # - title: other
   #   entries:
