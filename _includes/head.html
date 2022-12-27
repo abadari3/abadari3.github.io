@@ -2,10 +2,9 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="manifest" href="manifest.json">
   <meta content='yes' name='apple-mobile-web-app-capable'/>
   <meta content='yes' name='mobile-web-app-capable'/>
-
+  <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎯</text></svg>">
   <title>
     {%- if page.title -%}
       {{ page.title }}
@@ -16,18 +15,6 @@
 
   {%-seo title=false-%}
   {%-feed_meta-%}
-  <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-        processEscapes: true
-      }
-    });
-  </script>
-      
-  <script type="text/javascript"
-          src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-  </script>
-  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
+  <!-- <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" /> -->
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
 </head>

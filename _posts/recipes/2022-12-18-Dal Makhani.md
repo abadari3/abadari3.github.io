@@ -28,12 +28,6 @@ A classic with both chapati and rice.
 ---
 {: data-content=" Recipe "}
 
-<style>
-table, td, th {
-   border: none!important;
-}
-</style>
-
 |<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.png" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.png" style="width: 0%;height: 0;">|
 | 1. Soak black beans overnight with three parts water to one part beans.| <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.png" > |
 | 2. Cook beans on bean mode, and set aside.| <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/beanmode.png"  class="floatright"> |
@@ -58,4 +52,4 @@ table, td, th {
 [^5]: [garam masala](/ingredients#garammasala)
 [^6]: [chili powder](/ingredients#redchilipowder)
 [^7]: [haldi](/ingredients#haldi)
-[^8]: [casuri methi](/ingredients#carusimethi)
+[^8]: [casuri methi](/ingredients#casurimethi)
