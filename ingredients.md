@@ -35,56 +35,56 @@ category: recipe
     }
 </style>
 <h2 id='bay-leaves'>bay leaves</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/bayleaves.png">
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/bayleaves.jpeg">
 
 
 <h2 id='casuri'>casuri methi</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/casurimethi.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/casurimethi.jpeg"> 
 
 <h2 id='chanadal'>chana dal</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/chanadal.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/chanadal.jpeg"> 
 
 <h2 id='soakedchinch'>chinch (soaked)</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/chinchsoaked.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/chinchsoaked.jpeg"> 
 
 <h2 id='elaichi'>elaichi</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/elaichi.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/elaichi.jpeg"> 
 
 <h2 id='garammasala'>garam masala</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/garammasala.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/garammasala.jpeg"> 
 
 <h2 id='greenchilies'>green chilies</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/greenchilies.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/greenchilies.jpeg"> 
 
 <h2 id='haldi'>haldi</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/haldi.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/haldi.jpeg"> 
 
 <h2 id='hing'>hing</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/hing.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/hing.jpeg"> 
 
 <h2 id='jeera'>jeera</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/jeera.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/jeera.jpeg"> 
 
 <h2 id='lavang'>lavang</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/lavang.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/lavang.jpeg"> 
 
 <h2 id='methi'>methi</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/methi.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/methi.jpeg"> 
 
 <h2 id='methipowder'>methi powder</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/methipowder.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/methipowder.jpeg"> 
 
 <h2 id='mohra'>mohra</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/mohra.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/mohra.jpeg"> 
 
 <h2 id='palak'>palak</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/palak.jpeg"> 
 
 <h2 id='redchilies'>red chilies</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/redchilies.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/redchilies.jpeg"> 
 
 <h2 id='redchilipowder'>red chili powder</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/redchilipowder.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/redchilipowder.jpeg"> 
 
 <h2 id='uraddal'>urad dal</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/uraddal.png"> 
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/uraddal.jpeg"> 
