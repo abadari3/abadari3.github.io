@@ -35,7 +35,7 @@ One of my favorites.
 | 6. Add 1 teaspoon haldi[^4], two tablespoons salt. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/ambatbhaji5.png">|
 | 6. Add pre-cooked dal and cook for a while. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/ambatbhaji6.png">|
 | 7. Add one tablespoon of methi powder[^5]. If methi available is not powdered[^6], add to below ponhi instead. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/ambatbhaji7.png">|
-| 8. Prepare ponhi with mohra[^8], 3 red chilis[^3], 6 green chilis[^2], and one strand of karepak. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/ambatbhaji8.png"> |
+| 8. Prepare ponhi[^10] with mohra[^8], 3 red chilis[^3], 6 green chilis[^2], and one strand of karepak. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/ambatbhaji8.png"> |
 | 9. Add to palak when green chilis start to turn white. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/ambatbhaji9.png">|
 | 10. *Optional* Add one tablespoon of rice flour to water, and mix with ambatbhaji. This makes it thicker but more bland. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/ambatbhaji10.png">|
 | 11. Cook on low for atleast 15 minutes. Done.| <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/ambatbhaji11.png">| 
@@ -53,3 +53,4 @@ One of my favorites.
 [^7]: [soaked chinch](/ingredients#soakedchinch)
 [^8]: [mohra](/ingredients#mohra)
 [^9]: [hing](/ingredients#hing)
+[^10]: [recipe for ponhi](/ponhi)
