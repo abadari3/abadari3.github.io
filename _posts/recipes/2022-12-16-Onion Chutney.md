@@ -1,5 +1,5 @@
 ---
 layout: recipe
-title: Ponhi
+title: Onion Chutney
 category: recipe
 ---

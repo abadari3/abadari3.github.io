@@ -12,3 +12,4 @@ Gemfile.lock
 .ipynb_checkpoints
 Gemfile
 *.lock
+run.sh

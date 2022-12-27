@@ -12,7 +12,7 @@ category: recipe
 - [garam masala](#garammasala) 
 - [green chilies](#greenchilies) 
 - [haldi](#haldi) 
-- [hing](#hing) 
+- [hing or asafoetida](#hing) 
 - [jeera](#jeera) 
 - [lavang](#lavang) 
 - [methi](#methi) 
@@ -34,57 +34,57 @@ category: recipe
       }
     }
 </style>
-
-## [bay leaves](#bay-leaves) 
+<h2 id='bay-leaves'>bay leaves</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/bayleaves.png">
 
-## [casuri methi](#casuri) 
+
+<h2 id='casuri'>casuri methi</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/casurimethi.png"> 
 
-## [chana dal](#chanadal) 
+<h2 id='chanadal'>chana dal</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/chanadal.png"> 
 
-## [chinch (soaked)](#soakedchinch) 
+<h2 id='soakedchinch'>chinch (soaked)</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/chinchsoaked.png"> 
 
-## [elaichi](#elaichi) 
+<h2 id='elaichi'>elaichi</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/elaichi.png"> 
 
-## [garam masala](#garammasala) 
+<h2 id='garammasala'>garam masala</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/garammasala.png"> 
 
-## [green chilies](#greenchilies) 
+<h2 id='greenchilies'>green chilies</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/greenchilies.png"> 
 
-## [haldi](#haldi) 
+<h2 id='haldi'>haldi</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/haldi.png"> 
 
-## [hing](#hing) 
+<h2 id='hing'>hing</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/hing.png"> 
 
-## [jeera](#jeera) 
+<h2 id='jeera'>jeera</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/jeera.png"> 
 
-## [lavang](#lavang) 
+<h2 id='lavang'>lavang</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/lavang.png"> 
 
-## [methi](#methi) 
+<h2 id='methi'>methi</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/methi.png"> 
 
-## [methi powder](#methipowder) 
+<h2 id='methipowder'>methi powder</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/methipowder.png"> 
 
-## [mohra](#mohra) 
+<h2 id='mohra'>mohra</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/mohra.png"> 
 
-## [palak](#palak) 
+<h2 id='palak'>palak</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/palak.jpeg"> 
 
-## [red chilies](#redchilies) 
+<h2 id='redchilies'>red chilies</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/redchilies.png"> 
 
-## [red chili powder](#redchilipowder) 
+<h2 id='redchilipowder'>red chili powder</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/redchilipowder.png"> 
 
-## [urad dal](#uraddal) 
+<h2 id='uraddal'>urad dal</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/uraddal.png"> 

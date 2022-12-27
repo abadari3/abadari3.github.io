@@ -1,5 +1,5 @@
 ---
 layout: recipe
-title: Ponhi
+title: Sesame Chutney
 category: recipe
 ---
