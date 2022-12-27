@@ -20,6 +20,7 @@ category: recipe
 - [methi](#methi) 
 - [methi powder](#methipowder) 
 - [mohra](#mohra) 
+- [paav bhaji masala](#paavbhajimasala)
 - [palak](#palak)
 - [red chilies](#redchilies) 
 - [red chili powder](#redchilipowder) 
@@ -84,6 +85,9 @@ category: recipe
 
 <h2 id='mohra'>mohra</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/mohra.jpeg"> 
+
+<h2 id='paavbhajimasala'>paav bhaji masala</h2>
+<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhajimasala.jpeg"> 
 
 <h2 id='palak'>palak</h2>
 <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/palak.jpeg"> 
