@@ -1,6 +1,6 @@
 ---
-layout: archive
+layout: post
 title: huberman
-category: archive
+category: post
 ---
 
