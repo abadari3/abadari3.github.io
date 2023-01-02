@@ -10,13 +10,11 @@ entries:
   - title: recipes
     post_list:
       category: recipe
-      show_more: false
+      limit: 5
+      show_more: true
       show_more_text: See more posts...
       show_more_url: recipe-archive.html
 
-  - title: todo
-    entries:
-      - title: convert movie pics back to pngs for transparency. 
 
   # - title: other
   #   entries:
