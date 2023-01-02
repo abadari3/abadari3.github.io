@@ -28,7 +28,7 @@ A classic with both chapati and rice.
 ---
 {: data-content=" Recipe "}
 
-|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
+|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/x.png" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/x.png" style="width: 0%;height: 0;">|
 | 1. Soak black beans overnight with three parts water to one part beans.| <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" > |
 | 2. Cook beans on bean mode, and set aside.| <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/beanmode.jpeg"  class="floatright"> |
 | 3. Chop 2 onions, half-inch ginger, and two pods of garlic finely into cubes.| <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani1.jpeg"> |

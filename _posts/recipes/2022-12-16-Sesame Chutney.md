@@ -21,7 +21,7 @@ Easy chutney for dosa.
 {: data-content=" Recipe "}
  
 
-|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
+|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/x.png" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/x.png" style="width: 0%;height: 0;">|
 | 1. Add 3 red chilies and 1/2 teaspoon hing to oil, sautee till hing puffs up and becomes fried.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/sesamechutney1.jpeg" > |
 | 2. Add 1.5 cups of teel (sesame seeds), and sautee on low heat till browned.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/sesamechutney2.jpeg"> |
 | 3. Add soaked chinch water, salt, and half teaspoon of gud (jaggery) and mix well.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/sesamechutney3.jpeg"> |
