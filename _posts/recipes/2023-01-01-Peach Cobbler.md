@@ -27,7 +27,7 @@ Classic southern dessert from Boy Scouts.
 {: data-content=" Recipe "}
 
 
-|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/x.png" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/x.png" style="width: 0%;height: 0;">|
+|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
 | 1. Melt one stick butter in baking pan. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/peachcobbler1.jpeg"> |
 | 2. Mix one cup self rising flour and one cup sugar in bowl.| <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/peachcobbler2.jpeg" > |
 | 3. While mixing, add one cup of cold milk and stir. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/peachcobbler3.jpeg"> |

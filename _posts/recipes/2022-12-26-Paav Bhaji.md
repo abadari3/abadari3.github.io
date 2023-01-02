@@ -29,7 +29,7 @@ More complicated food for special occasions.
 ---
 {: data-content=" Recipe "}
 
-|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/x.png" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/x.png" style="width: 0%;height: 0;">|
+|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
 | 1. Chop up 1/3 cauliflower, 4 small potatoes and pressure cook for 20 minutes.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhaji1.jpeg"> |
 | 2. Peel and cut one capsicum, two carrots, and handful of beans, and pressure cook for 20 minutes.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhaji2.jpeg"> |
 | 3. Blend pressure cooked vegetables after peeling and cutting. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhaji3.jpeg"> |

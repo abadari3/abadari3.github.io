@@ -26,7 +26,7 @@ One of my favorites.
 ---
 {: data-content=" Recipe "}
 
-|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/x.png" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/x.png" style="width: 0%;height: 0;">|
+|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
 | 1. Cook then mash 1.5 cups of uncooked dal, with 2:1 water:dal ratio, on bean mode in the instapot for 25 minutes.| <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/ambatbhaji0.jpeg"> |
 | 2. Add oil on medium heat and add penny-size size of hing[^9].| <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/ambatbhaji1.jpeg" > |
 | 3. Add 1 - 1.5 cups of palak[^1] and sautee on medium. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/ambatbhaji2.jpeg"> |
