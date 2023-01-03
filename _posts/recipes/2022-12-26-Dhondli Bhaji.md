@@ -19,12 +19,12 @@ category: recipe
 ---
 {: data-content=" Recipe "}
 
-|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
-| 1. Cut ends off of dhondli (ivy gourd), and cut into small pieces and pressure cook for 5 minutes. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dhondli1.jpeg"> |
-| 2. Add mohra[^1] to oil on medium heat. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dhondli2.jpeg"> |
-| 3. Once it starts bubbling, add dhondli. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dhondli3.jpeg"> |
-| 4. Add one to two teaspoon salt, one teaspoon haldi[^2] and sautee till golden brown. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dhondli4.jpeg"> |
-| 5. Once browned, add half a teaspoon of chili powder[^3] and oil and mix well on low heat. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dhondli5.jpeg"> |
+|<img src="assets/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="assets/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
+| 1. Cut ends off of dhondli (ivy gourd), and cut into small pieces and pressure cook for 5 minutes. | <img src="assets/dhondli1.jpeg"> |
+| 2. Add mohra[^1] to oil on medium heat. | <img src="assets/dhondli2.jpeg"> |
+| 3. Once it starts bubbling, add dhondli. | <img src="assets/dhondli3.jpeg"> |
+| 4. Add one to two teaspoon salt, one teaspoon haldi[^2] and sautee till golden brown. | <img src="assets/dhondli4.jpeg"> |
+| 5. Once browned, add half a teaspoon of chili powder[^3] and oil and mix well on low heat. | <img src="assets/dhondli5.jpeg"> |
 
 ---
 {: data-content=" footnotes "}

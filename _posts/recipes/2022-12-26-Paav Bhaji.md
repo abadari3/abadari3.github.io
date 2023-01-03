@@ -29,15 +29,15 @@ More complicated food for special occasions.
 ---
 {: data-content=" Recipe "}
 
-|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
-| 1. Chop up 1/3 cauliflower, 4 small potatoes and pressure cook for 20 minutes.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhaji1.jpeg"> |
-| 2. Peel and cut one capsicum, two carrots, and handful of beans, and pressure cook for 20 minutes.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhaji2.jpeg"> |
-| 3. Blend pressure cooked vegetables after peeling and cutting. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhaji3.jpeg"> |
-| 4. Chop two onions, two garlic cloves, one inch ginger, and two tomatoes.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhaji4.jpeg"> |
-| 5. Sautee mixture on medium heat with oil. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhaji5.jpeg"> |
-| 6. Once onions become clear and start to become crispy, add blended vegetable mix.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhaji6.jpeg"> |
-| 7. Add 1 tablespoon chili powder[^1], 3 tablespoons paav bhaji masala[^2], one table spoon garam masala[^3], 2 large pinches of casuri methi[^4], and 5 tablespoons of salt.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhaji7.jpeg"> |
-| 8. Add kothmir and squeeze lime before eating.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhaji8.jpeg"> |
+|<img src="assets/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="assets/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
+| 1. Chop up 1/3 cauliflower, 4 small potatoes and pressure cook for 20 minutes.  | <img src="assets/paavbhaji1.jpeg"> |
+| 2. Peel and cut one capsicum, two carrots, and handful of beans, and pressure cook for 20 minutes.  | <img src="assets/paavbhaji2.jpeg"> |
+| 3. Blend pressure cooked vegetables after peeling and cutting. | <img src="assets/paavbhaji3.jpeg"> |
+| 4. Chop two onions, two garlic cloves, one inch ginger, and two tomatoes.  | <img src="assets/paavbhaji4.jpeg"> |
+| 5. Sautee mixture on medium heat with oil. | <img src="assets/paavbhaji5.jpeg"> |
+| 6. Once onions become clear and start to become crispy, add blended vegetable mix.  | <img src="assets/paavbhaji6.jpeg"> |
+| 7. Add 1 tablespoon chili powder[^1], 3 tablespoons paav bhaji masala[^2], one table spoon garam masala[^3], 2 large pinches of casuri methi[^4], and 5 tablespoons of salt.  | <img src="assets/paavbhaji7.jpeg"> |
+| 8. Add kothmir and squeeze lime before eating.  | <img src="assets/paavbhaji8.jpeg"> |
 
 ---
 {: data-content=" footnotes "}

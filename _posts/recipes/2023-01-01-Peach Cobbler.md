@@ -27,14 +27,14 @@ Classic southern dessert from Boy Scouts.
 {: data-content=" Recipe "}
 
 
-|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
-| 1. Melt one stick butter in baking pan. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/peachcobbler1.jpeg"> |
-| 2. Mix one cup self rising flour and one cup sugar in bowl.| <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/peachcobbler2.jpeg" > |
-| 3. While mixing, add one cup of cold milk and stir. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/peachcobbler3.jpeg"> |
-| 4. In another bowl, empty canned peaches and add 1 tsp cinnamon, vanilla extract, and corn starch, then add quarter teaspoon of nutmeg, one teaspoon vanilla extract, quarter teaspoon salt, and one tablespoon of corn starch.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/peachcobbler4.jpeg">|
-| 5. Pour 3/4 of batter into buttered baking pan, and layer peaches on top. Then, add the rest of batter on top.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/peachcobbler5.jpeg">|
-| 6.  Mix sugar and cinnamon and add on top for crust, then bake on 350 for 1 - 1.5 hours. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/peachcobbler6.jpeg">|
-| 7. Let it rest before serving. *Optional* Serve with vanilla ice cream.  | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/peachcobbler7.jpeg">|
+|<img src="assets/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="assets/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
+| 1. Melt one stick butter in baking pan. | <img src="assets/peachcobbler1.jpeg"> |
+| 2. Mix one cup self rising flour and one cup sugar in bowl.| <img src="assets/peachcobbler2.jpeg" > |
+| 3. While mixing, add one cup of cold milk and stir. | <img src="assets/peachcobbler3.jpeg"> |
+| 4. In another bowl, empty canned peaches and add 1 tsp cinnamon, vanilla extract, and corn starch, then add quarter teaspoon of nutmeg, one teaspoon vanilla extract, quarter teaspoon salt, and one tablespoon of corn starch.  | <img src="assets/peachcobbler4.jpeg">|
+| 5. Pour 3/4 of batter into buttered baking pan, and layer peaches on top. Then, add the rest of batter on top.  | <img src="assets/peachcobbler5.jpeg">|
+| 6.  Mix sugar and cinnamon and add on top for crust, then bake on 350 for 1 - 1.5 hours. | <img src="assets/peachcobbler6.jpeg">|
+| 7. Let it rest before serving. *Optional* Serve with vanilla ice cream.  | <img src="assets/peachcobbler7.jpeg">|
 
 ---
 {: data-content=" footnotes "}

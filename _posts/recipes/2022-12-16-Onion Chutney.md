@@ -20,11 +20,11 @@ Easy chutney for dosa.
 ---
 {: data-content=" Recipe "}
 
-|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
-| 1. Chop up 2 onions and tear this amount of dry chinch[^1] | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/onionchutney0.jpeg" > |
-| 2. Add salt, and 1 green[^2] and 2 red[^3] chilies and sautee till onions clear. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/onionchutney1.jpeg"> |
-| 3. Make ponhi[^7] with 1 tablespoon urad dal[^4], 1 teaspoon jeera[^5], and 1 teaspoon mohra[^6]. Add dal first, then when brown add the rest. | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/onionchutney2.jpeg"> |
-| 4. Blend sauteed onions, and add the ponhi to blended chutney.   | <img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/onionchutney3.jpeg"> |
+|<img src="assets/dalmakhani0.jpeg" style="width: 0%;height: 0;">|<img src="assets/dalmakhani0.jpeg" style="width: 0%;height: 0;">|
+| 1. Chop up 2 onions and tear this amount of dry chinch[^1] | <img src="assets/onionchutney0.jpeg" > |
+| 2. Add salt, and 1 green[^2] and 2 red[^3] chilies and sautee till onions clear. | <img src="assets/onionchutney1.jpeg"> |
+| 3. Make ponhi[^7] with 1 tablespoon urad dal[^4], 1 teaspoon jeera[^5], and 1 teaspoon mohra[^6]. Add dal first, then when brown add the rest. | <img src="assets/onionchutney2.jpeg"> |
+| 4. Blend sauteed onions, and add the ponhi to blended chutney.   | <img src="assets/onionchutney3.jpeg"> |
 
 ---
 {: data-content=" footnotes "}
