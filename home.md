@@ -3,17 +3,16 @@ layout: post
 ---
 # Ananda Badari
 
-### links
-- [resume.pdf](/resume)
-- [transcript.pdf](/transcript)
-
 ### information
 - full name: 
 - phone: 
 - email: 
 - github: 
 - linkedin: 
-
+<br>
+<br>
+- resume: [resume.pdf](/full-resume)
+- transcript: [transcript.pdf](/full-transcript)
 ## Resume
 
 ---
