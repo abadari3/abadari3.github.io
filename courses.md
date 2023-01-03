@@ -6,7 +6,7 @@ title: coursework
 ---
 {: data-content=" transcript "}
 
-transcript.pdf
+[transcript.pdf](assets/transcript.pdf)
 
 ---
 {: data-content=" courses "}
