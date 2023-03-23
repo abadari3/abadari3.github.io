@@ -38,65 +38,65 @@ category: recipe
     }
 </style>
 <h2 id='bay-leaves'>bay leaves</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/bayleaves.jpeg">
+<img src="assets/bayleaves.jpeg">
 
 
 <h2 id='casuri'>casuri methi</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/casurimethi.jpeg"> 
+<img src="assets/casurimethi.jpeg"> 
 
 <h2 id='chanadal'>chana dal</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/chanadal.jpeg"> 
+<img src="assets/chanadal.jpeg"> 
 
 <h2 id='drychinch'>chinch (dry)</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/chinchdry.jpeg"> 
+<img src="assets/chinchdry.jpeg"> 
 
 <h2 id='soakedchinch'>chinch (soaked)</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/chinchsoaked.jpeg"> 
+<img src="assets/chinchsoaked.jpeg"> 
 
 <h2 id='elaichi'>elaichi</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/elaichi.jpeg"> 
+<img src="assets/elaichi.jpeg"> 
 
 <h2 id='garammasala'>garam masala</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/garammasala.jpeg"> 
+<img src="assets/garammasala.jpeg"> 
 
 <h2 id='greenchilies'>green chilies</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/greenchilies.jpeg"> 
+<img src="assets/greenchilies.jpeg"> 
 
 <h2 id='haldi'>haldi</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/haldi.jpeg"> 
+<img src="assets/haldi.jpeg"> 
 
 <h2 id='hing'>hing</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/hing.jpeg"> 
+<img src="assets/hing.jpeg"> 
 
 <h2 id='jeera'>jaggery or gud</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/jaggery.jpeg"> 
+<img src="assets/jaggery.jpeg"> 
 
 <h2 id='jeera'>jeera</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/jeera.jpeg"> 
+<img src="assets/jeera.jpeg"> 
 
 <h2 id='lavang'>lavang</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/lavang.jpeg"> 
+<img src="assets/lavang.jpeg"> 
 
 <h2 id='methi'>methi</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/methi.jpeg"> 
+<img src="assets/methi.jpeg"> 
 
 <h2 id='methipowder'>methi powder</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/methipowder.jpeg"> 
+<img src="assets/methipowder.jpeg"> 
 
 <h2 id='mohra'>mohra</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/mohra.jpeg"> 
+<img src="assets/mohra.jpeg"> 
 
 <h2 id='paavbhajimasala'>paav bhaji masala</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/paavbhajimasala.jpeg"> 
+<img src="assets/paavbhajimasala.jpeg"> 
 
 <h2 id='palak'>palak</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/palak.jpeg"> 
+<img src="assets/palak.jpeg"> 
 
 <h2 id='redchilies'>red chilies</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/redchilies.jpeg"> 
+<img src="assets/redchilies.jpeg"> 
 
 <h2 id='redchilipowder'>red chili powder</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/redchilipowder.jpeg"> 
+<img src="assets/redchilipowder.jpeg"> 
 
 <h2 id='uraddal'>urad dal</h2>
-<img src="https://raw.githubusercontent.com/abadari3/abadari3.github.io/master/_images/uraddal.jpeg"> 
+<img src="assets/uraddal.jpeg"> 
