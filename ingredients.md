@@ -87,16 +87,16 @@ category: recipe
 <img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/0e2e73ba-3c9f-4a5d-0eb1-6ccfb1c33500/public"> 
 
 <h2 id='paavbhajimasala'>paav bhaji masala</h2>
-<img src="assets/paavbhajimasala.jpeg"> 
+<img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/a28dfd82-a981-4161-80b0-f04f1f7e7c00/public"> 
 
 <h2 id='palak'>palak</h2>
-<img src="assets/palak.jpeg"> 
+<img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/9b5466ef-7432-4e48-7d3d-3263cd347c00/public"> 
 
 <h2 id='redchilies'>red chilies</h2>
-<img src="assets/redchilies.jpeg"> 
+<img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/71a67a0d-57e8-442b-0270-0078595f4d00/public"> 
 
 <h2 id='redchilipowder'>red chili powder</h2>
-<img src="assets/redchilipowder.jpeg"> 
+<img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/fe02e8b0-f712-44dc-56e7-0decdceeab00/public"> 
 
 <h2 id='uraddal'>urad dal</h2>
-<img src="assets/uraddal.jpeg"> 
+<img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/937cb9e6-3c74-4654-9590-424c82449000/public"> 
