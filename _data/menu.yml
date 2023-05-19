@@ -7,13 +7,19 @@ entries:
   #     show_more_text: See more posts...
   #     show_more_url: movie-archive.html
 
-  - title: recipes
-    post_list:
-      category: recipe
+  # - title: recipes
+  #   post_list:
+  #     category: recipe
       # limit: 5
       # show_more: true
       # show_more_text: See more posts...
       # show_more_url: recipe-archive.html
+
+- title: recipes
+  url: recipes.html
+
+- title: movies
+  url: movies.html
 
   # - title: resume
   #   entries:
