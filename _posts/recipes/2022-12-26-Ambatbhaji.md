@@ -33,7 +33,7 @@ One of my favorites.
 | 4. Add shown amount of soaked chinch[^7] to a bowl, and squish with hand in bowl with water. | <img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/e130b419-199d-4581-f4e3-1b5aeaec8b00/public">|
 | 5. Strain chinch water and remove pulpy fiber. Add the brown chinch water to palak sautee.  | <img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/95dcc0a0-34ae-4d6b-31d5-1009c719ff00/public">|
 | 6. Add 1 teaspoon haldi[^4], two tablespoons salt. | <img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/623ee89b-97dc-44d9-4d89-fc85ff2fd900/public">|
-| 6. Add pre-cooked dal and cook for a while. | <img src="ashttps://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/2ec132d7-9fc8-4e11-a70d-f93a5f6cf300/public">|
+| 6. Add pre-cooked dal and cook for a while. | <img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/2ec132d7-9fc8-4e11-a70d-f93a5f6cf300/public">|
 | 7. Add one tablespoon of methi powder[^5]. If methi available is not powdered[^6], add to below ponhi instead. | <img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/e1bd6078-ab8c-47d5-d180-91a0f66d8600/public">|
 | 8. Prepare ponhi[^10] with mohra[^8], 3 red chilis[^3], 6 green chilis[^2], and one strand of karepak. | <img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/bd9f0574-121a-44a0-82e3-f9e8c9a43c00/public"> |
 | 9. Add to palak when green chilis start to turn white. | <img src="https://imagedelivery.net/Yb-cxrGvaBvwwylP0OsNpA/18d4fdae-3bef-4141-48df-d14f2efadc00/public">|
