@@ -11,16 +11,17 @@ One of my favorites.
 
 - 1.5 cups of palak [^1]
 - 1.5 cups of uncooked dal
+- 3 cups of water (for the dal)
 - 6 green chilis[^2]
 - 3 red chilis[^3]
-- 1 stalk of karepak
 - 1 tsp haldi[^4]
 - 2 tbsp of salt
 - 1 tsp methi powder[^5] or methi[^6]
+- A penny-sized amount of hing[^9]
+- 1 stalk of karepak
+- 1 inch of soaked chinch [^7]
 - 1 tbsp rice flour (optional)
-- soaked chinch [^7]
 - mohra[^8]
-- hing[^9]
 - oil
 
 ---
